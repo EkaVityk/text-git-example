@@ -1,6 +1,7 @@
 # Hello!!!
 
-## Subtitle
+## Learn your JS better  
+
 
 * One
 * Two _italic_
