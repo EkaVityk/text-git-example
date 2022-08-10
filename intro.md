@@ -1,10 +1,10 @@
 # Hello!!!
 
-## Learn your JS better  55
-## Learn your Python better
+## Learn your JS better 555
+
 
 * One
 * Two _italic_
 * Some new item
-* @
-* like that Aleks is packing his lunch
+* Aleks is packing his snack
+* his snack is healthy
