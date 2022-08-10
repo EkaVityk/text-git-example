@@ -1,7 +1,7 @@
 # Hello!!!
 
 ## Learn your JS better  
-
+## Learn your Python better
 
 * One
 * Two _italic_
